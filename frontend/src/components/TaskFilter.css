@@ -1,0 +1,11 @@
+.task-filter {
+    margin: 20px 0;
+  }
+  
+  .task-filter select {
+    padding: 8px 12px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+  }
+  
