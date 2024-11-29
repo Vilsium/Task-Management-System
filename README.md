@@ -30,7 +30,6 @@ A simple and user-friendly Task Management System built with React for the front
   - `cd Task-Management-System`
 2. Install dependencies:
    * For the backend:
-      - `cd backend`
       - `npm install`
    * For the frontend:
       - `cd frontend`
